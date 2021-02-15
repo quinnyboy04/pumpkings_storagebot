@@ -1,0 +1,30 @@
+{
+  "name": "Test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.2.0",
+    "djs": "0.0.2",
+    "djs-commands": "^1.2.2",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.6.0",
+    "fortnite": "^4.3.2",
+    "fs": "0.0.1-security",
+    "imageapi.js": "^1.0.10",
+    "install-keys": "0.0.6",
+    "keys": "^0.1.2",
+    "moment": "^2.27.0",
+    "simple-fortnite-api": "^0.1.9",
+    "snekfetch": "^4.0.4",
+    "stack": "^0.1.0",
+    "stackjs": "^1.0.0"
+  }
+}
